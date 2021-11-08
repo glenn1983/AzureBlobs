@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AzureBlobs": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
